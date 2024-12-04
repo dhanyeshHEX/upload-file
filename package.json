@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@actions/core": "^1.11.1"
-  }
+  },
+  "description": ""
 }
